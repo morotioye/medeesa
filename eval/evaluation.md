@@ -1,4 +1,3 @@
-"""
 EEG Data Analysis Model Testing README
 
 Overview:
@@ -35,12 +34,10 @@ Evaluation Metrics:
 
 Results:
 - (To be added after testing completion)
-  - CNN Results:
-  - LSTM Results:
-  - SVM Results:
+  - CNN Accuracy: 0.9852941176470589
+  - LSTM Accuracy: 0.9705882352941176
+  - SVM Accuracy: 0.9411764705882353
 
 Additional Notes:
 - Consider potential model optimizations based on initial test results.
 - Explore the impact of different EEG channel configurations and sample rates on model performance.
-"""
-
